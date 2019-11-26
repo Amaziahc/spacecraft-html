@@ -1,0 +1,37 @@
+{
+  "name": "spacecraft-web",
+  "version": "1.0.0",
+  "description": "* -i have decided create this website bacause when i am done with University i want to proceed and work as a craft engineer.\r * -i want to collect all those who have talents,knowlege and who are willing to join me to find planet -x and other planets which can support human lives.\r * -these are two main reasons why have me decide to create this website.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amaziahc/spacecraft-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amaziahc/spacecraft-web/issues"
+  },
+  "homepage": "https://github.com/Amaziahc/spacecraft-web#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.0",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.12",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}

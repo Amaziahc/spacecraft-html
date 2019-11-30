@@ -45,4 +45,4 @@ all the back ground pictures and those i use to clarify and as examples are all 
 * 1-2 upgrading
 * Submitting when its done
 
-[link] [https://amaziahc-spacecraft-web.glitch.me/projects.html]
+[link] [https://amaziahc-spacecraft-web.glitch.me/]

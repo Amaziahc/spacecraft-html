@@ -2,7 +2,7 @@
 
 
 # Introduction
-###why do you do this?
+### why do you do this?
 
 * -i have decided create this website bacause when i am done with University i want to proceed and work as a craft engineer.
 * -i want to collect all those who have talents,knowlege and who are willing to join me to find planet -x and other planets which can support human lives.

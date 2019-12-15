@@ -38,11 +38,9 @@ all the back ground pictures and those i use to clarify and as examples are all 
 * NEWSBLOG PAGE
 * ABOUT PAGE
 
-## Plan 
-* 2 weeks on front end 
-* 2 weeks on back end 
-* 1 week for correcting errors
-* 1-2 upgrading
-* Submitting when its done
+## Done
+* full front End 
+* full backend
+* read for submition
 
 [link] [https://amaziahc-spacecraft-web.glitch.me/]
